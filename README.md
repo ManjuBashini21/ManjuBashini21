@@ -6,13 +6,9 @@ I enjoy solving complex problems, exploring emerging technologies, and turning i
 
 I’m passionate about AI, software development, innovation, and continuous learning, and I enjoy collaborating with teams to build solutions that are both useful and scalable.
 
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-
----
 
 ## Tech Stack
 
@@ -59,7 +55,6 @@ I’m passionate about AI, software development, innovation, and continuous lear
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
 
----
 ## Achievements & Participation
 
 * Won the Smart India Hackathon 2023 at the national level.
