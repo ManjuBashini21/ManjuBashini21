@@ -1,7 +1,5 @@
 ## Hi there! 👋 I'm Manjubashini 
 
-### Software Engineer | AI/ML & Full Stack Developer
-
 I’m a Software Engineer passionate about building AI-driven and full-stack solutions that address real-world challenges and create meaningful impact.
 
 I enjoy solving complex problems, exploring emerging technologies, and turning ideas into practical products. I’m always looking for opportunities to learn, experiment, and improve through hands-on development.
@@ -73,12 +71,7 @@ I’m passionate about AI, software development, innovation, and continuous lear
 * Participated in the technical session From AI Coding Agents to AI Enabled Teams conducted by Sahaj Software.
 * Participated in the Smart India Hackathon Phase II 5 Day Bootcamp.
 * Actively participated in IEEE as a Student Member.
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
-</p>
 
 ---
 
-### 💡 Building with AI. Creating with Code. Solving Real-World Problems.
+### 💡Building with AI. Creating with Code. Solving Real-World Problems.
