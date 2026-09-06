@@ -6,9 +6,11 @@ I enjoy solving complex problems, exploring emerging technologies, and turning i
 
 I’m passionate about AI, software development, innovation, and continuous learning, and I enjoy collaborating with teams to build solutions that are both useful and scalable.
 
+
 ## Connect With Me
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/manjubashini-j/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manjubashini-j/)
+
 
 ## Tech Stack
 
