@@ -16,7 +16,7 @@ I’m passionate about AI, software development, innovation, and continuous lear
 
 ## Tech Stack
 
-**Programming Languages**
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
@@ -71,7 +71,3 @@ I’m passionate about AI, software development, innovation, and continuous lear
 * Participated in the technical session From AI Coding Agents to AI Enabled Teams conducted by Sahaj Software.
 * Participated in the Smart India Hackathon Phase II 5 Day Bootcamp.
 * Actively participated in IEEE as a Student Member.
-
----
-
-### 💡Building with AI. Creating with Code. Solving Real-World Problems.
