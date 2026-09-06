@@ -12,7 +12,7 @@ I’m passionate about AI, software development, innovation, and continuous lear
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manjubashini-j/)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 > ##### Programming Languages
 
@@ -75,8 +75,18 @@ I’m passionate about AI, software development, innovation, and continuous lear
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge\&logo=github\&logoColor=white)
 
-> ##### Development Tools
+> ##### AI Tools
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-5C2D91?style=for-the-badge)
+
+> ##### Other Tools
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 
