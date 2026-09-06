@@ -8,7 +8,7 @@ I’m passionate about AI, software development, innovation, and continuous lear
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manjubashini-j/))
 
 ## Tech Stack
 
