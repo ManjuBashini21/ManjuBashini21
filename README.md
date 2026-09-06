@@ -64,8 +64,8 @@ I’m passionate about AI, software development, innovation, and continuous lear
 ---
 ## Achievements & Participation
 
--- Won the Smart India Hackathon 2023 at the national level.
-• Received the Dr. Kalam Young Achiever Award 2024.
+* Won the Smart India Hackathon 2023 at the national level.
+* Received the Dr. Kalam Young Achiever Award 2024.
 • Participated in a 36 Hour Web Development Hackathon organized by the IEM, Kolkata.
 • Participated in PLI Hackathon 2.0 and developed a blockchain based renewable energy solution.
 • Participated in the BITS Pilani Postman API Hackathon and developed AgronomyNet.
